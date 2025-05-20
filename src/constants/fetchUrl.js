@@ -1,0 +1,15 @@
+export const fetchUrl = {
+  clients: "/tenant/clients",
+  clientContracts: "/tenant/clients/contract/",
+  currencies: "/tenant/currency",
+  languages: "/tenant/language",
+  locations: "/tenant/locations",
+  countries: "/tenant/location/countries",
+  destinations: "/tenant/location/destinations",
+  itineraryDestinations: "/tenant/itinerary-destinations",
+  service_types: "/tenant/service_types",
+  statuses_itinerary: "/tenant/statuses_itinerary",
+  tags: "/tenant/tags",
+  services_tags: "/tenant/service-categories",
+  itineraries_tags: "/tenant/itinerary-tags",
+};

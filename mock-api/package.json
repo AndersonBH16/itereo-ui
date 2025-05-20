@@ -1,0 +1,15 @@
+{
+  "name": "mock-api",
+  "version": "0.1.0",
+  "description": "Mini fake server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

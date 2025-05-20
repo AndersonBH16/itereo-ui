@@ -1,0 +1,17 @@
+NODE_ENV=production
+
+VUE_APP_TITLE=ITEREO™ Travel Planner
+
+VUE_APP_END_POINT_V1=https://ela.itereo.net/api/v1
+
+VUE_APP_WEB_LINK_URL=https://travel.itereo.net
+
+VUE_APP_RESET_PASSWORD_URL=https://www.itereo.net
+
+VUE_APP_PUSHER_KEY=75868a0548f6de641965
+
+VUE_APP_PUSHER_CLUSTER=sa1
+
+VUE_APP_SENTRY_DSN=https://97795d761abcf201f6c447585eff546c@o4508876589629440.ingest.us.sentry.io/4508882087903232
+
+VUE_APP_SENTRY_TRACE_PROPAGATION_TARGETS=https://www.itereo.net

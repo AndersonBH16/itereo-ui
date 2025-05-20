@@ -1,0 +1,110 @@
+[
+    {
+      "entity_id": 1,
+      "service_type_name": "Flight",
+      "service_acronym": "FL",
+      "mandatory_sections": "",
+      "search_token": {
+        "fl": "2B",
+        "flight": "1A"
+      },
+      "icon": "airplane"
+    },
+    {
+      "entity_id": 2,
+      "service_type_name": "Accommodation",
+      "service_acronym": "AC",
+      "mandatory_sections": "room,amenities",
+      "search_token": {
+        "ac": "2B",
+        "accommod": "1A"
+      },
+      "icon": "bed"
+    },
+    {
+      "entity_id": 3,
+      "service_type_name": "Transport",
+      "service_acronym": "TP",
+      "mandatory_sections": "location",
+      "search_token": {
+        "tp": "2B",
+        "transport": "1A"
+      },
+      "icon": "train-car"
+    },
+    {
+      "entity_id": 4,
+      "service_type_name": "Entrance",
+      "service_acronym": "EN",
+      "mandatory_sections": "",
+      "search_token": {
+        "en": "2B",
+        "entranc": "1A"
+      },
+      "icon": "ticket-confirmation-outline"
+    },
+    {
+      "entity_id": 5,
+      "service_type_name": "Transfer",
+      "service_acronym": "TR",
+      "mandatory_sections": "location",
+      "search_token": {
+        "tr": "2B",
+        "transfer": "1A"
+      },
+      "icon": "car"
+    },
+    {
+      "entity_id": 6,
+      "service_type_name": "Meal",
+      "service_acronym": "ME",
+      "mandatory_sections": "",
+      "search_token": {
+        "meal": "2B"
+      },
+      "icon": "silverware-fork-knife"
+    },
+    {
+      "entity_id": 7,
+      "service_type_name": "Excursion",
+      "service_acronym": "EX",
+      "mandatory_sections": "location",
+      "search_token": {
+        "ex": "2B",
+        "excurs": "1A"
+      },
+      "icon": "image-filter-hdr"
+    },
+    {
+      "entity_id": 8,
+      "service_type_name": "Guide",
+      "service_acronym": "GU",
+      "mandatory_sections": "",
+      "search_token": {
+        "gu": "2B",
+        "guid": "1A"
+      },
+      "icon": "account-voice"
+    },
+    {
+      "entity_id": 9,
+      "service_type_name": "Package",
+      "service_acronym": "PA",
+      "mandatory_sections": "room",
+      "search_token": {
+        "pa": "2B",
+        "packag": "1A"
+      },
+      "icon": "map"
+    },
+    {
+      "entity_id": 10,
+      "service_type_name": "Other",
+      "service_acronym": "OT",
+      "mandatory_sections": "",
+      "search_token": {
+        "ot": "2B"
+      },
+      "icon": "check-circle-outline"
+    }
+]

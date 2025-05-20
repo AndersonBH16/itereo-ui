@@ -1,0 +1,74 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd $CODEBUILD_SRC_DIR/itp_saas_ui
+        - npm install
+    build:
+      commands:
+        - cd $CODEBUILD_SRC_DIR/itp_saas_ui
+        - npm run build-$AWS_BRANCH
+  artifacts:
+    baseDirectory: dist
+    files:
+      - "**/*"
+  customHeaders:
+    - pattern: "**/*"
+      headers:
+        - key: "Strict-Transport-Security"
+          value: "max-age=31536000; includeSubDomains"
+        - key: "X-Frame-Options"
+          value: "SAMEORIGIN"
+        - key: "X-XSS-Protection"
+          value: "1; mode=block"
+        - key: "X-Content-Type-Options"
+          value: "nosniff"
+    # images
+    - pattern: "**/*.gif"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    - pattern: "**/*.ico"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    - pattern: "**/*.jpg"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    - pattern: "**/*.png"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    - pattern: "**/*.svg"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    # js
+    - pattern: "**/*.js"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    # css
+    - pattern: "**/*.css"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    # videos
+    - pattern: "**/*.mp4"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    - pattern: "**/*.webm"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+    # audios
+    - pattern: "**/*.mp3"
+      headers:
+        - key: "Cache-Control"
+          value: "public,max-age=31536000,immutable"
+
+  cache:
+    paths: []

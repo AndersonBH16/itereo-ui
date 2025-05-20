@@ -1,0 +1,2696 @@
+[
+  {
+    "id": 61,
+    "location_code": "CR",
+    "location_name": "Costa Rica",
+    "location_weight": 10,
+    "location_landmark": "Costa Rica",
+    "location_coordinates": "-84,10",
+    "location_label": "Costa Rica",
+    "parent": 0
+  },
+  {
+    "id": 24266,
+    "location_code": "CR-ABG",
+    "location_name": "Abangares",
+    "location_weight": 0,
+    "location_landmark": "Abangares",
+    "location_coordinates": "-84.57,10.17",
+    "location_label": "Abangares",
+    "parent": 61
+  },
+  {
+    "id": 24267,
+    "location_code": "CR-ABA",
+    "location_name": "Abangaritos",
+    "location_weight": 0,
+    "location_landmark": "Abangaritos",
+    "location_coordinates": "-85.01,10.07",
+    "location_label": "Abangaritos",
+    "parent": 61
+  },
+  {
+    "id": 24268,
+    "location_code": "CR-AGU",
+    "location_name": "Aguas Zarcas",
+    "location_weight": 0,
+    "location_landmark": "Aguas Zarcas",
+    "location_coordinates": "-84.34017,10.37589",
+    "location_label": "Aguas Zarcas, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24269,
+    "location_code": "CR-AZA",
+    "location_name": "Aguas Zarcas",
+    "location_weight": 0,
+    "location_landmark": "Aguas Zarcas",
+    "location_coordinates": "-84.34017,10.37589",
+    "location_label": "Aguas Zarcas, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24270,
+    "location_code": "CR-AJU",
+    "location_name": "Alajuela",
+    "location_weight": 0,
+    "location_landmark": "Alajuela",
+    "location_coordinates": "-84.21374,10.01608",
+    "location_label": "Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24271,
+    "location_code": "CR-ALI",
+    "location_name": "Alajuelita",
+    "location_weight": 0,
+    "location_landmark": "Alajuelita",
+    "location_coordinates": "-84.1004,9.90189",
+    "location_label": "Alajuelita, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24272,
+    "location_code": "CR-ATM",
+    "location_name": "Altamira",
+    "location_weight": 0,
+    "location_landmark": "Altamira",
+    "location_coordinates": "-84.21,10.28",
+    "location_label": "Altamira",
+    "parent": 61
+  },
+  {
+    "id": 24273,
+    "location_code": "CR-AJZ",
+    "location_name": "Aranjuez",
+    "location_weight": 0,
+    "location_landmark": "Aranjuez",
+    "location_coordinates": "-84.47,10.04",
+    "location_label": "Aranjuez",
+    "parent": 61
+  },
+  {
+    "id": 24274,
+    "location_code": "CR-ATE",
+    "location_name": "Atenas",
+    "location_weight": 0,
+    "location_landmark": "Atenas",
+    "location_coordinates": "-84.37986,9.98091",
+    "location_label": "Atenas, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24275,
+    "location_code": "CR-BAG",
+    "location_name": "Bagaces",
+    "location_weight": 0,
+    "location_landmark": "Bagaces",
+    "location_coordinates": "-85.25535,10.5221",
+    "location_label": "Bagaces, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24276,
+    "location_code": "CR-BBD",
+    "location_name": "Barbudal",
+    "location_weight": 0,
+    "location_landmark": "Barbudal",
+    "location_coordinates": "-85.07,10.13",
+    "location_label": "Barbudal",
+    "parent": 61
+  },
+  {
+    "id": 24277,
+    "location_code": "CR-BCL",
+    "location_name": "Barra del Colorado",
+    "location_weight": 0,
+    "location_landmark": "Barra del Colorado",
+    "location_coordinates": "-83.35,10.46",
+    "location_label": "Barra del Colorado",
+    "parent": 61
+  },
+  {
+    "id": 24278,
+    "location_code": "CR-BAR",
+    "location_name": "Barranca",
+    "location_weight": 0,
+    "location_landmark": "Barranca",
+    "location_coordinates": "-84.70662,9.99289",
+    "location_label": "Barranca, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24279,
+    "location_code": "CR-BNC",
+    "location_name": "Barranca",
+    "location_weight": 0,
+    "location_landmark": "Barranca",
+    "location_coordinates": "-84.70662,9.99289",
+    "location_label": "Barranca, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24280,
+    "location_code": "CR-BRL",
+    "location_name": "Barrial",
+    "location_weight": 0,
+    "location_landmark": "Barrial",
+    "location_coordinates": "-84.08,9.59",
+    "location_label": "Barrial",
+    "parent": 61
+  },
+  {
+    "id": 24281,
+    "location_code": "CR-BAV",
+    "location_name": "Barva",
+    "location_weight": 0,
+    "location_landmark": "Barva",
+    "location_coordinates": "-84.12531,10.01972",
+    "location_label": "Barva, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24282,
+    "location_code": "CR-BAT",
+    "location_name": "Batan",
+    "location_weight": 0,
+    "location_landmark": "Batan",
+    "location_coordinates": "-83.3417,10.08531",
+    "location_label": "Batan, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24283,
+    "location_code": "CR-BLN",
+    "location_name": "Belen",
+    "location_weight": 0,
+    "location_landmark": "Belen",
+    "location_coordinates": "-85.58719,10.40691",
+    "location_label": "Belen, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24284,
+    "location_code": "CR-BVT",
+    "location_name": "Bella Vista",
+    "location_weight": 0,
+    "location_landmark": "Bella Vista",
+    "location_coordinates": "-84.26,10.12",
+    "location_label": "Bella Vista",
+    "parent": 61
+  },
+  {
+    "id": 24285,
+    "location_code": "CR-BIJ",
+    "location_name": "Bijagual",
+    "location_weight": 0,
+    "location_landmark": "Bijagual",
+    "location_coordinates": "-84.03,9.26",
+    "location_label": "Bijagual",
+    "parent": 61
+  },
+  {
+    "id": 24286,
+    "location_code": "CR-BAL",
+    "location_name": "Boca Arenal",
+    "location_weight": 10,
+    "location_landmark": "Boca Arenal",
+    "location_coordinates": "-84.29,10.32",
+    "location_label": "Boca Arenal",
+    "parent": 61
+  },
+  {
+    "id": 24287,
+    "location_code": "CR-BBA",
+    "location_name": "Boca Barranca",
+    "location_weight": 0,
+    "location_landmark": "Boca Barranca",
+    "location_coordinates": "-84.44,9.58",
+    "location_label": "Boca Barranca",
+    "parent": 61
+  },
+  {
+    "id": 24288,
+    "location_code": "CR-BRI",
+    "location_name": "Bri Bri",
+    "location_weight": 0,
+    "location_landmark": "Bri Bri",
+    "location_coordinates": "-82.5,9.38",
+    "location_label": "Bri Bri",
+    "parent": 61
+  },
+  {
+    "id": 24289,
+    "location_code": "CR-BAI",
+    "location_name": "Buenos Aires",
+    "location_weight": 0,
+    "location_landmark": "Buenos Aires",
+    "location_coordinates": "-83.3,8.52",
+    "location_label": "Buenos Aires",
+    "parent": 61
+  },
+  {
+    "id": 24290,
+    "location_code": "CR-BSA",
+    "location_name": "Buenos Aires",
+    "location_weight": 0,
+    "location_landmark": "Buenos Aires",
+    "location_coordinates": "-84.51,10.4",
+    "location_label": "Buenos Aires",
+    "parent": 61
+  },
+  {
+    "id": 24291,
+    "location_code": "CR-BFL",
+    "location_name": "Buffalo",
+    "location_weight": 0,
+    "location_landmark": "Buffalo",
+    "location_coordinates": "-83.1,10.01",
+    "location_label": "Buffalo",
+    "parent": 61
+  },
+  {
+    "id": 24292,
+    "location_code": "CR-CAB",
+    "location_name": "Cabo Blanco",
+    "location_weight": 0,
+    "location_landmark": "Cabo Blanco",
+    "location_coordinates": "-85,9.56",
+    "location_label": "Cabo Blanco",
+    "parent": 61
+  },
+  {
+    "id": 24293,
+    "location_code": "CR-CCI",
+    "location_name": "Cachi",
+    "location_weight": 0,
+    "location_landmark": "Cachi",
+    "location_coordinates": "-83.79269,9.82635",
+    "location_label": "Cachi, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24294,
+    "location_code": "CR-CHT",
+    "location_name": "Cahuita",
+    "location_weight": 0,
+    "location_landmark": "Cahuita",
+    "location_coordinates": "-82.84047,9.73684",
+    "location_label": "Cahuita, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24295,
+    "location_code": "CR-CAI",
+    "location_name": "Caimital",
+    "location_weight": 0,
+    "location_landmark": "Caimital",
+    "location_coordinates": "-85.28,10.04",
+    "location_label": "Caimital",
+    "parent": 61
+  },
+  {
+    "id": 24296,
+    "location_code": "CR-CAL",
+    "location_name": "Caldera",
+    "location_weight": 0,
+    "location_landmark": "Caldera",
+    "location_coordinates": "-84.43,9.57",
+    "location_label": "Caldera",
+    "parent": 61
+  },
+  {
+    "id": 24297,
+    "location_code": "CR-CAE",
+    "location_name": "Calle Blancos",
+    "location_weight": 0,
+    "location_landmark": "Calle Blancos",
+    "location_coordinates": "-84.06759,9.94818",
+    "location_label": "Calle Blancos, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24298,
+    "location_code": "CR-CSC",
+    "location_name": "Canas",
+    "location_weight": 0,
+    "location_landmark": "Canas",
+    "location_coordinates": "-85.09021,10.4265",
+    "location_label": "Ca\u00f1as, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24299,
+    "location_code": "CR-CAS",
+    "location_name": "Canas",
+    "location_weight": 0,
+    "location_landmark": "Canas",
+    "location_coordinates": "-85.09021,10.4265",
+    "location_label": "Ca\u00f1as, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24300,
+    "location_code": "CR-CJL",
+    "location_name": "Canjel",
+    "location_weight": 0,
+    "location_landmark": "Canjel",
+    "location_coordinates": "-85.12,9.59",
+    "location_label": "Canjel",
+    "parent": 61
+  },
+  {
+    "id": 24301,
+    "location_code": "CR-CNG",
+    "location_name": "Ca\u00f1o Negro",
+    "location_weight": 10,
+    "location_landmark": "Cano Negro, Ca\u00f1o Negro",
+    "location_coordinates": "-84.79567,10.89241",
+    "location_label": "Ca\u00f1o Negro, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24302,
+    "location_code": "CR-CAN",
+    "location_name": "Canoas",
+    "location_weight": 0,
+    "location_landmark": "Canoas",
+    "location_coordinates": "-82.88534,8.54149",
+    "location_label": "Canoas, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24303,
+    "location_code": "CR-CAP",
+    "location_name": "Capulin",
+    "location_weight": 0,
+    "location_landmark": "Capulin",
+    "location_coordinates": "-84.35,9.49",
+    "location_label": "Capulin",
+    "parent": 61
+  },
+  {
+    "id": 24304,
+    "location_code": "CR-CIA",
+    "location_name": "Cariari",
+    "location_weight": 0,
+    "location_landmark": "Cariari",
+    "location_coordinates": "-83.73039,10.36869",
+    "location_label": "Cariari, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24305,
+    "location_code": "CR-RIK",
+    "location_name": "Carrillo",
+    "location_weight": 0,
+    "location_landmark": "Carrillo",
+    "location_coordinates": "-85.44696,9.96847",
+    "location_label": "Carrillo",
+    "parent": 61
+  },
+  {
+    "id": 24306,
+    "location_code": "CR-CAZ",
+    "location_name": "Carrizal",
+    "location_weight": 0,
+    "location_landmark": "Carrizal",
+    "location_coordinates": "-84.16544,10.08925",
+    "location_label": "Carrizal, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24307,
+    "location_code": "CR-CAR",
+    "location_name": "Cartago",
+    "location_weight": 0,
+    "location_landmark": "Cartago",
+    "location_coordinates": "-83.55,9.52",
+    "location_label": "Cartago",
+    "parent": 61
+  },
+  {
+    "id": 24308,
+    "location_code": "CR-CJS",
+    "location_name": "Cascajal",
+    "location_weight": 0,
+    "location_landmark": "Cascajal",
+    "location_coordinates": "-83.95505,10.00211",
+    "location_label": "Cascajal, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24309,
+    "location_code": "CR-CCC",
+    "location_name": "Cervantes",
+    "location_weight": 0,
+    "location_landmark": "Cervantes",
+    "location_coordinates": "-83.80508,9.88745",
+    "location_label": "Cervantes, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24310,
+    "location_code": "CR-CHA",
+    "location_name": "Chachagua",
+    "location_weight": 0,
+    "location_landmark": "Chachagua",
+    "location_coordinates": "-84.37,10.24",
+    "location_label": "Chachagua",
+    "parent": 61
+  },
+  {
+    "id": 24311,
+    "location_code": "CR-COM",
+    "location_name": "Chomes",
+    "location_weight": 0,
+    "location_landmark": "Chomes",
+    "location_coordinates": "-84.90444,10.04321",
+    "location_label": "Chomes, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24312,
+    "location_code": "CR-CNA",
+    "location_name": "Cinchona",
+    "location_weight": 0,
+    "location_landmark": "Cinchona",
+    "location_coordinates": "-84.11,10.13",
+    "location_label": "Cinchona",
+    "parent": 61
+  },
+  {
+    "id": 24313,
+    "location_code": "CR-CIR",
+    "location_name": "Ciruelas",
+    "location_weight": 0,
+    "location_landmark": "Ciruelas",
+    "location_coordinates": "-85.21,10.3",
+    "location_label": "Ciruelas",
+    "parent": 61
+  },
+  {
+    "id": 24314,
+    "location_code": "CR-CBN",
+    "location_name": "Cobano",
+    "location_weight": 0,
+    "location_landmark": "Cobano",
+    "location_coordinates": "-85.1449,9.71678",
+    "location_label": "Cobano, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24315,
+    "location_code": "CR-COC",
+    "location_name": "Coco",
+    "location_weight": 0,
+    "location_landmark": "Coco",
+    "location_coordinates": "-87.05987,5.52754",
+    "location_label": "Isla del Coco, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24316,
+    "location_code": "CR-CLN",
+    "location_name": "Colon",
+    "location_weight": 0,
+    "location_landmark": "Colon",
+    "location_coordinates": "-84.24067,9.91757",
+    "location_label": "Ciudad Colon, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24317,
+    "location_code": "CR-COR",
+    "location_name": "Coronado",
+    "location_weight": 0,
+    "location_landmark": "Coronado",
+    "location_coordinates": "-83.37,9.03",
+    "location_label": "Coronado",
+    "parent": 61
+  },
+  {
+    "id": 24318,
+    "location_code": "CR-CRL",
+    "location_name": "Corralillo",
+    "location_weight": 0,
+    "location_landmark": "Corralillo",
+    "location_coordinates": "-84.0328,9.79002",
+    "location_label": "Corralillo, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24319,
+    "location_code": "CR-OTR",
+    "location_name": "Coto 47",
+    "location_weight": 0,
+    "location_landmark": "Coto 47",
+    "location_coordinates": "-82.58,8.36",
+    "location_label": "Coto 47",
+    "parent": 61
+  },
+  {
+    "id": 24320,
+    "location_code": "CR-CYL",
+    "location_name": "Coyol",
+    "location_weight": 0,
+    "location_landmark": "Coyol",
+    "location_coordinates": "-84.15,10",
+    "location_label": "Coyol",
+    "parent": 61
+  },
+  {
+    "id": 24321,
+    "location_code": "CR-CYR",
+    "location_name": "Coyolar",
+    "location_weight": 0,
+    "location_landmark": "Coyolar",
+    "location_coordinates": "-84.55848,9.89528",
+    "location_label": "Coyolar, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24322,
+    "location_code": "CR-CRR",
+    "location_name": "Curridabat",
+    "location_weight": 0,
+    "location_landmark": "Curridabat",
+    "location_coordinates": "-84.03609,9.91191",
+    "location_label": "Curridabat, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24323,
+    "location_code": "CR-CUB",
+    "location_name": "Curubande",
+    "location_weight": 0,
+    "location_landmark": "Curubande",
+    "location_coordinates": "-85.38703,10.71592",
+    "location_label": "Curubande, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24324,
+    "location_code": "CR-CUT",
+    "location_name": "Cutris",
+    "location_weight": 0,
+    "location_landmark": "Cutris",
+    "location_coordinates": "-84.47932,10.53139",
+    "location_label": "Cutris, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24325,
+    "location_code": "CR-DE2",
+    "location_name": "Desamparados",
+    "location_weight": 0,
+    "location_landmark": "Desamparados",
+    "location_coordinates": "-84.04,9.54",
+    "location_label": "Desamparados",
+    "parent": 61
+  },
+  {
+    "id": 24326,
+    "location_code": "CR-DOM",
+    "location_name": "Dominical",
+    "location_weight": 0,
+    "location_landmark": "Dominical",
+    "location_coordinates": "-83.52,9.15",
+    "location_label": "Dominical",
+    "parent": 61
+  },
+  {
+    "id": 24327,
+    "location_code": "CR-ESC",
+    "location_name": "Escazu",
+    "location_weight": 0,
+    "location_landmark": "Escazu",
+    "location_coordinates": "-84.13862,9.92112",
+    "location_label": "Escazu, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24328,
+    "location_code": "CR-ESP",
+    "location_name": "Esparza",
+    "location_weight": 0,
+    "location_landmark": "Esparza",
+    "location_coordinates": "-84.4,9.59",
+    "location_label": "Esparza",
+    "parent": 61
+  },
+  {
+    "id": 24329,
+    "location_code": "CR-FIL",
+    "location_name": "Filadelfia",
+    "location_weight": 0,
+    "location_landmark": "Filadelfia",
+    "location_coordinates": "-85.55047,10.44244",
+    "location_label": "Filadelfia, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24330,
+    "location_code": "CR-FMG",
+    "location_name": "Flamingo",
+    "location_weight": 0,
+    "location_landmark": "Flamingo",
+    "location_coordinates": "-85.47,10.25",
+    "location_label": "Flamingo",
+    "parent": 61
+  },
+  {
+    "id": 24331,
+    "location_code": "CR-AFS",
+    "location_name": "Florencia de San Carlos",
+    "location_weight": 0,
+    "location_landmark": "Florencia de San Carlos",
+    "location_coordinates": "-84.45643,10.46546",
+    "location_label": "Muelle San Carlos, Florencia, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24332,
+    "location_code": "CR-FON",
+    "location_name": "Fortuna",
+    "location_weight": 10,
+    "location_landmark": "Fortuna",
+    "location_coordinates": "-85.2023569,10.6759352",
+    "location_label": "Fortuna",
+    "parent": 61
+  },
+  {
+    "id": 24333,
+    "location_code": "CR-FPN",
+    "location_name": "Fraijanes",
+    "location_weight": 0,
+    "location_landmark": "Fraijanes",
+    "location_coordinates": "-84.12,10.09",
+    "location_label": "Fraijanes",
+    "parent": 61
+  },
+  {
+    "id": 24334,
+    "location_code": "CR-FRA",
+    "location_name": "Francia",
+    "location_weight": 0,
+    "location_landmark": "Francia",
+    "location_coordinates": "-83.33,10.08",
+    "location_label": "Francia",
+    "parent": 61
+  },
+  {
+    "id": 24335,
+    "location_code": "CR-GLF",
+    "location_name": "Golfito",
+    "location_weight": 0,
+    "location_landmark": "Golfito",
+    "location_coordinates": "-83.1613,8.63304",
+    "location_label": "Golfito, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24336,
+    "location_code": "CR-GDP",
+    "location_name": "Golfo de Papagayo",
+    "location_weight": 0,
+    "location_landmark": "Golfo de Papagayo",
+    "location_coordinates": "-85.41,10.36",
+    "location_label": "Golfo de Papagayo",
+    "parent": 61
+  },
+  {
+    "id": 24337,
+    "location_code": "CR-GMI",
+    "location_name": "Grecia",
+    "location_weight": 0,
+    "location_landmark": "Grecia",
+    "location_coordinates": "-84.3132,10.07109",
+    "location_label": "Grecia, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24338,
+    "location_code": "CR-GCA",
+    "location_name": "Guacima",
+    "location_weight": 0,
+    "location_landmark": "Guacima",
+    "location_coordinates": "-84.24821,9.96451",
+    "location_label": "Guacima, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24339,
+    "location_code": "CR-GUC",
+    "location_name": "Guacimo",
+    "location_weight": 0,
+    "location_landmark": "Guacimo",
+    "location_coordinates": "-83.68243,10.20846",
+    "location_label": "Guacimo, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24340,
+    "location_code": "CR-CPL",
+    "location_name": "Guapiles",
+    "location_weight": 0,
+    "location_landmark": "Guapiles",
+    "location_coordinates": "-83.79153,10.21385",
+    "location_label": "Guapiles, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24341,
+    "location_code": "CR-GDA",
+    "location_name": "Guardia",
+    "location_weight": 0,
+    "location_landmark": "Guardia",
+    "location_coordinates": "-85.36,10.34",
+    "location_label": "Guardia",
+    "parent": 61
+  },
+  {
+    "id": 24342,
+    "location_code": "CR-GTS",
+    "location_name": "Guatuso",
+    "location_weight": 0,
+    "location_landmark": "Guatuso",
+    "location_coordinates": "-84.22,9.51",
+    "location_label": "Guatuso",
+    "parent": 61
+  },
+  {
+    "id": 24343,
+    "location_code": "CR-GUA",
+    "location_name": "Guatuso",
+    "location_weight": 0,
+    "location_landmark": "Guatuso",
+    "location_coordinates": "-84.49,10.4",
+    "location_label": "Guatuso",
+    "parent": 61
+  },
+  {
+    "id": 24344,
+    "location_code": "CR-HCD",
+    "location_name": "Hacienda Coronado",
+    "location_weight": 0,
+    "location_landmark": "Hacienda Coronado",
+    "location_coordinates": "-84.3,10.24",
+    "location_label": "Hacienda Coronado",
+    "parent": 61
+  },
+  {
+    "id": 24345,
+    "location_code": "CR-HER",
+    "location_name": "Heredia",
+    "location_weight": 0,
+    "location_landmark": "Heredia",
+    "location_coordinates": "-84.11717,9.99969",
+    "location_label": "Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24346,
+    "location_code": "CR-HSA",
+    "location_name": "Horluetas\/Sarapiqui",
+    "location_weight": 0,
+    "location_landmark": "Horluetas\/Sarapiqui",
+    "location_coordinates": "-84.01,10.29",
+    "location_label": "Horluetas\/Sarapiqui",
+    "parent": 61
+  },
+  {
+    "id": 24347,
+    "location_code": "CR-JAB",
+    "location_name": "Jabillos",
+    "location_weight": 0,
+    "location_landmark": "Jabillos",
+    "location_coordinates": "-84.33,10.23",
+    "location_label": "Jabillos",
+    "parent": 61
+  },
+  {
+    "id": 24348,
+    "location_code": "CR-JAC",
+    "location_name": "Jaco",
+    "location_weight": 0,
+    "location_landmark": "Jaco",
+    "location_coordinates": "-84.63716,9.6226",
+    "location_label": "Jaco, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24349,
+    "location_code": "CR-JAR",
+    "location_name": "Jaris",
+    "location_weight": 0,
+    "location_landmark": "Jaris",
+    "location_coordinates": "-84.17,9.52",
+    "location_label": "Jaris",
+    "parent": 61
+  },
+  {
+    "id": 24350,
+    "location_code": "CR-JIC",
+    "location_name": "Jicaral",
+    "location_weight": 0,
+    "location_landmark": "Jicaral",
+    "location_coordinates": "-85.07,9.58",
+    "location_label": "Jicaral",
+    "parent": 61
+  },
+  {
+    "id": 24351,
+    "location_code": "CR-JIM",
+    "location_name": "Jimenez",
+    "location_weight": 0,
+    "location_landmark": "Jimenez",
+    "location_coordinates": "-83.7435,10.20102",
+    "location_label": "Jimenez, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24352,
+    "location_code": "CR-LAN",
+    "location_name": "La Asuncion",
+    "location_weight": 0,
+    "location_landmark": "La Asuncion",
+    "location_coordinates": "-84.1,9.59",
+    "location_label": "La Asuncion",
+    "parent": 61
+  },
+  {
+    "id": 24353,
+    "location_code": "CR-LCO",
+    "location_name": "La Ceiba de Orotina",
+    "location_weight": 0,
+    "location_landmark": "La Ceiba de Orotina",
+    "location_coordinates": "-84.31,9.54",
+    "location_label": "La Ceiba de Orotina",
+    "parent": 61
+  },
+  {
+    "id": 24354,
+    "location_code": "CR-LCZ",
+    "location_name": "La Cruz",
+    "location_weight": 0,
+    "location_landmark": "La Cruz",
+    "location_coordinates": "-85.63151,11.0727",
+    "location_label": "La Cruz, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24355,
+    "location_code": "CR-LAF",
+    "location_name": "La Fortuna",
+    "location_weight": 0,
+    "location_landmark": "La Fortuna",
+    "location_coordinates": "-85.18221,10.67593",
+    "location_label": "La Fortuna, Fortuna, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24356,
+    "location_code": "CR-LAG",
+    "location_name": "La Garita",
+    "location_weight": 0,
+    "location_landmark": "La Garita",
+    "location_coordinates": "-85.52946,11.03303",
+    "location_label": "La Garita, Garita, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24357,
+    "location_code": "CR-LLC",
+    "location_name": "La Lucha",
+    "location_weight": 0,
+    "location_landmark": "La Lucha",
+    "location_coordinates": "-82.49,8.53",
+    "location_label": "La Lucha",
+    "parent": 61
+  },
+  {
+    "id": 24358,
+    "location_code": "CR-RBR",
+    "location_name": "La Ribera",
+    "location_weight": 0,
+    "location_landmark": "La Ribera",
+    "location_coordinates": "-84.11,9.59",
+    "location_label": "La Ribera",
+    "parent": 61
+  },
+  {
+    "id": 24359,
+    "location_code": "CR-TIG",
+    "location_name": "La Tigra",
+    "location_weight": 0,
+    "location_landmark": "La Tigra",
+    "location_coordinates": "-84.58199,10.34072",
+    "location_label": "La Tigra, Tigra, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24360,
+    "location_code": "CR-LUC",
+    "location_name": "La Uruca",
+    "location_weight": 0,
+    "location_landmark": "La Uruca",
+    "location_coordinates": ",",
+    "location_label": "La Uruca",
+    "parent": 61
+  },
+  {
+    "id": 24361,
+    "location_code": "CR-LAV",
+    "location_name": "La Virgen",
+    "location_weight": 0,
+    "location_landmark": "La Virgen",
+    "location_coordinates": "-84.13218,10.4023",
+    "location_label": "La Virgen, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24362,
+    "location_code": "CR-LAA",
+    "location_name": "Lagunilla",
+    "location_weight": 0,
+    "location_landmark": "Lagunilla",
+    "location_coordinates": "-84.07,9.58",
+    "location_label": "Lagunilla",
+    "parent": 61
+  },
+  {
+    "id": 24363,
+    "location_code": "CR-LCS",
+    "location_name": "Las Canas",
+    "location_weight": 0,
+    "location_landmark": "Las Canas",
+    "location_coordinates": ",",
+    "location_label": "Las Canas",
+    "parent": 61
+  },
+  {
+    "id": 24364,
+    "location_code": "CR-LHS",
+    "location_name": "Las Huacas",
+    "location_weight": 0,
+    "location_landmark": "Las Huacas",
+    "location_coordinates": "-85.2,10.02",
+    "location_label": "Las Huacas",
+    "parent": 61
+  },
+  {
+    "id": 24365,
+    "location_code": "CR-PLL",
+    "location_name": "Laurel",
+    "location_weight": 0,
+    "location_landmark": "Laurel",
+    "location_coordinates": "-82.94106,8.46367",
+    "location_label": "Laurel, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24366,
+    "location_code": "CR-LEG",
+    "location_name": "Legua",
+    "location_weight": 0,
+    "location_landmark": "Legua",
+    "location_coordinates": "-84.10787,9.73535",
+    "location_label": "Legua, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24367,
+    "location_code": "CR-LPT",
+    "location_name": "Lepanto",
+    "location_weight": 0,
+    "location_landmark": "Lepanto",
+    "location_coordinates": "-85.03102,9.95077",
+    "location_label": "Lepanto, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24368,
+    "location_code": "CR-LIR",
+    "location_name": "Liberia",
+    "location_weight": 10,
+    "location_landmark": "Liberia",
+    "location_coordinates": "-85.44209,10.62747",
+    "location_label": "Liberia, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24369,
+    "location_code": "CR-LMN",
+    "location_name": "Limon",
+    "location_weight": 0,
+    "location_landmark": "Limon",
+    "location_coordinates": "-83.02908,9.99095",
+    "location_label": "Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24370,
+    "location_code": "CR-LLA",
+    "location_name": "Limon Via Turrialba",
+    "location_weight": 0,
+    "location_landmark": "Limon Via Turrialba",
+    "location_coordinates": "-83.37,10.1",
+    "location_label": "Limon Via Turrialba",
+    "parent": 61
+  },
+  {
+    "id": 24371,
+    "location_code": "CR-LIM",
+    "location_name": "Limonal",
+    "location_weight": 0,
+    "location_landmark": "Limonal",
+    "location_coordinates": "-85.01,10.14",
+    "location_label": "Limonal",
+    "parent": 61
+  },
+  {
+    "id": 24372,
+    "location_code": "CR-LGR",
+    "location_name": "Llano Grande",
+    "location_weight": 0,
+    "location_landmark": "Llano Grande",
+    "location_coordinates": "-83.91154,9.9409",
+    "location_label": "Llano Grande, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24373,
+    "location_code": "CR-LSL",
+    "location_name": "Los Chiles",
+    "location_weight": 0,
+    "location_landmark": "Los Chiles",
+    "location_coordinates": "-84.714,11.03278",
+    "location_label": "Los Chiles, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24374,
+    "location_code": "CR-MSN",
+    "location_name": "Mansion",
+    "location_weight": 0,
+    "location_landmark": "Mansion",
+    "location_coordinates": "-85.31901,10.10851",
+    "location_label": "Mansion, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24375,
+    "location_code": "CR-MAO",
+    "location_name": "Matapalo",
+    "location_weight": 0,
+    "location_landmark": "Matapalo",
+    "location_coordinates": "-83.58,9.2",
+    "location_label": "Matapalo",
+    "parent": 61
+  },
+  {
+    "id": 24376,
+    "location_code": "CR-MAT",
+    "location_name": "Matina",
+    "location_weight": 0,
+    "location_landmark": "Matina",
+    "location_coordinates": "-83.28849,10.07571",
+    "location_label": "Matina, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24377,
+    "location_code": "CR-MMR",
+    "location_name": "Miramar",
+    "location_weight": 0,
+    "location_landmark": "Miramar",
+    "location_coordinates": "-84.72239,10.09103",
+    "location_label": "Miramar, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24378,
+    "location_code": "CR-MOB",
+    "location_name": "Moin",
+    "location_weight": 0,
+    "location_landmark": "Moin",
+    "location_coordinates": "-83.05,10",
+    "location_label": "Moin",
+    "parent": 61
+  },
+  {
+    "id": 24379,
+    "location_code": "CR-CTC",
+    "location_name": "Moravia",
+    "location_weight": 0,
+    "location_landmark": "Moravia",
+    "location_coordinates": "-83.26,9.51",
+    "location_label": "Moravia",
+    "parent": 61
+  },
+  {
+    "id": 24380,
+    "location_code": "CR-MUE",
+    "location_name": "Muelle de San Carlos",
+    "location_weight": 0,
+    "location_landmark": "Muelle de San Carlos",
+    "location_coordinates": "-84.28,10.28",
+    "location_label": "Muelle de San Carlos",
+    "parent": 61
+  },
+  {
+    "id": 24381,
+    "location_code": "CR-GAC",
+    "location_name": "Nacascolo",
+    "location_weight": 0,
+    "location_landmark": "Nacascolo",
+    "location_coordinates": "-85.59509,10.73542",
+    "location_label": "Nacascolo, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24382,
+    "location_code": "CR-NAN",
+    "location_name": "Nandayure",
+    "location_weight": 0,
+    "location_landmark": "Nandayure",
+    "location_coordinates": "-85.12,10.02",
+    "location_label": "Nandayure",
+    "parent": 61
+  },
+  {
+    "id": 24383,
+    "location_code": "CR-NAR",
+    "location_name": "Naranjo",
+    "location_weight": 0,
+    "location_landmark": "Naranjo",
+    "location_coordinates": "-84.37618,10.09667",
+    "location_label": "Naranjo, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24384,
+    "location_code": "CR-CDN",
+    "location_name": "Neily",
+    "location_weight": 0,
+    "location_landmark": "Neily",
+    "location_coordinates": "-82.56,8.39",
+    "location_label": "Neily",
+    "parent": 61
+  },
+  {
+    "id": 24385,
+    "location_code": "CR-NCT",
+    "location_name": "Nicoya",
+    "location_weight": 0,
+    "location_landmark": "Nicoya",
+    "location_coordinates": "-85.44995,10.14381",
+    "location_label": "Nicoya, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24386,
+    "location_code": "CR-NOB",
+    "location_name": "Nosara Beach",
+    "location_weight": 0,
+    "location_landmark": "Nosara Beach",
+    "location_coordinates": "-85.39,9.58",
+    "location_label": "Nosara Beach",
+    "parent": 61
+  },
+  {
+    "id": 24387,
+    "location_code": "CR-OMO",
+    "location_name": "Ochomogo",
+    "location_weight": 0,
+    "location_landmark": "Ochomogo",
+    "location_coordinates": "-83.57,9.54",
+    "location_label": "Ochomogo",
+    "parent": 61
+  },
+  {
+    "id": 24388,
+    "location_code": "CR-ORE",
+    "location_name": "Oreamuno",
+    "location_weight": 0,
+    "location_landmark": "Oreamuno",
+    "location_coordinates": "-83.54,9.52",
+    "location_label": "Oreamuno",
+    "parent": 61
+  },
+  {
+    "id": 24389,
+    "location_code": "CR-OSI",
+    "location_name": "Orosi",
+    "location_weight": 0,
+    "location_landmark": "Orosi",
+    "location_coordinates": "-83.85499,9.79726",
+    "location_label": "Orosi, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24390,
+    "location_code": "CR-ORO",
+    "location_name": "Orotina",
+    "location_weight": 0,
+    "location_landmark": "Orotina",
+    "location_coordinates": "-84.52243,9.91284",
+    "location_label": "Orotina, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24391,
+    "location_code": "CR-CPS",
+    "location_name": "Pacayas",
+    "location_weight": 0,
+    "location_landmark": "Pacayas",
+    "location_coordinates": "-83.80871,9.91578",
+    "location_label": "Pacayas, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24392,
+    "location_code": "CR-PMZ",
+    "location_name": "Palmar",
+    "location_weight": 0,
+    "location_landmark": "Palmar",
+    "location_coordinates": "-83.42438,8.95365",
+    "location_label": "Palmar, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24393,
+    "location_code": "CR-PAN",
+    "location_name": "Palmar Norte",
+    "location_weight": 0,
+    "location_landmark": "Palmar Norte",
+    "location_coordinates": "-83.42918,8.96813",
+    "location_label": "Palmar Norte, Palmar, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24394,
+    "location_code": "CR-PAL",
+    "location_name": "Palmares",
+    "location_weight": 0,
+    "location_landmark": "Palmares",
+    "location_coordinates": "-84.43262,10.05669",
+    "location_label": "Palmares, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24395,
+    "location_code": "CR-PAM",
+    "location_name": "Palmares",
+    "location_weight": 0,
+    "location_landmark": "Palmares",
+    "location_coordinates": "-84.43262,10.05669",
+    "location_label": "Palmares",
+    "parent": 61
+  },
+  {
+    "id": 24396,
+    "location_code": "CR-PML",
+    "location_name": "Palmichal",
+    "location_weight": 0,
+    "location_landmark": "Palmichal",
+    "location_coordinates": "-84.20285,9.83742",
+    "location_label": "Palmichal, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24397,
+    "location_code": "CR-PRA",
+    "location_name": "Pandora",
+    "location_weight": 0,
+    "location_landmark": "Pandora",
+    "location_coordinates": "-82.58,9.44",
+    "location_label": "Pandora",
+    "parent": 61
+  },
+  {
+    "id": 24398,
+    "location_code": "CR-PQR",
+    "location_name": "Paquera",
+    "location_weight": 0,
+    "location_landmark": "Paquera",
+    "location_coordinates": "-84.93167,9.82187",
+    "location_label": "Paquera, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24399,
+    "location_code": "CR-PSO",
+    "location_name": "Paraiso",
+    "location_weight": 0,
+    "location_landmark": "Paraiso",
+    "location_coordinates": "-83.86786,9.83858",
+    "location_label": "Paraiso, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24400,
+    "location_code": "CR-L6G",
+    "location_name": "Parismina",
+    "location_weight": 0,
+    "location_landmark": "Parismina",
+    "location_coordinates": "-83.38,10.12",
+    "location_label": "Parismina",
+    "parent": 61
+  },
+  {
+    "id": 24401,
+    "location_code": "CR-PAR",
+    "location_name": "Parrita",
+    "location_weight": 0,
+    "location_landmark": "Parrita",
+    "location_coordinates": "-84.31765,9.51881",
+    "location_label": "Parrita, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24402,
+    "location_code": "CR-PRL",
+    "location_name": "Paso Real",
+    "location_weight": 0,
+    "location_landmark": "Paso Real",
+    "location_coordinates": "-85.1,10.26",
+    "location_label": "Paso Real",
+    "parent": 61
+  },
+  {
+    "id": 24403,
+    "location_code": "CR-PVA",
+    "location_name": "Pavas",
+    "location_weight": 0,
+    "location_landmark": "Pavas",
+    "location_coordinates": "-84.12471,9.94229",
+    "location_label": "Pavas, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24404,
+    "location_code": "CR-PVN",
+    "location_name": "Pavones",
+    "location_weight": 0,
+    "location_landmark": "Pavones",
+    "location_coordinates": "-83.61959,9.90465",
+    "location_label": "Pavones, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24405,
+    "location_code": "CR-PEJ",
+    "location_name": "Pejibaye",
+    "location_weight": 0,
+    "location_landmark": "Pejibaye",
+    "location_coordinates": "-83.34,9.1",
+    "location_label": "Pejibaye",
+    "parent": 61
+  },
+  {
+    "id": 24406,
+    "location_code": "CR-PBS",
+    "location_name": "Penas Blancas",
+    "location_weight": 0,
+    "location_landmark": "Penas Blancas",
+    "location_coordinates": "-84.6572,10.36351",
+    "location_label": "Pe\u00f1as Blancas, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24407,
+    "location_code": "CR-PEN",
+    "location_name": "Penshurst",
+    "location_weight": 0,
+    "location_landmark": "Penshurst",
+    "location_coordinates": ",",
+    "location_label": "Penshurst",
+    "parent": 61
+  },
+  {
+    "id": 24408,
+    "location_code": "CR-PIL",
+    "location_name": "Pilas de Canjel",
+    "location_weight": 0,
+    "location_landmark": "Pilas de Canjel",
+    "location_coordinates": "-85.02,9.57",
+    "location_label": "Pilas de Canjel",
+    "parent": 61
+  },
+  {
+    "id": 24409,
+    "location_code": "CR-PIT",
+    "location_name": "Pital",
+    "location_weight": 0,
+    "location_landmark": "Pital",
+    "location_coordinates": "-84.27276,10.45372",
+    "location_label": "Pital, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24410,
+    "location_code": "CR-PTL",
+    "location_name": "Pital",
+    "location_weight": 0,
+    "location_landmark": "Pital",
+    "location_coordinates": "-84.27276,10.45372",
+    "location_label": "Pital, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24411,
+    "location_code": "CR-APO",
+    "location_name": "Pital Con Desvio",
+    "location_weight": 0,
+    "location_landmark": "Pital Con Desvio",
+    "location_coordinates": "-84.16,10.26",
+    "location_label": "Pital Con Desvio",
+    "parent": 61
+  },
+  {
+    "id": 24412,
+    "location_code": "CR-PTN",
+    "location_name": "Platanares",
+    "location_weight": 0,
+    "location_landmark": "Platanares",
+    "location_coordinates": "-83.64812,9.20452",
+    "location_label": "Platanares, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24413,
+    "location_code": "CR-PCL",
+    "location_name": "Playa Conchal",
+    "location_weight": 0,
+    "location_landmark": "Playa Conchal",
+    "location_coordinates": "-85.48,10.24",
+    "location_label": "Playa Conchal",
+    "parent": 61
+  },
+  {
+    "id": 24414,
+    "location_code": "CR-CPA",
+    "location_name": "Playa Hermosa",
+    "location_weight": 0,
+    "location_landmark": "Playa Hermosa",
+    "location_coordinates": "-83.21,9.57",
+    "location_label": "Playa Hermosa",
+    "parent": 61
+  },
+  {
+    "id": 24415,
+    "location_code": "CR-PLD",
+    "location_name": "Playa Samara",
+    "location_weight": 0,
+    "location_landmark": "Playa Samara",
+    "location_coordinates": "-85.25,10.15",
+    "location_label": "Playa Samara",
+    "parent": 61
+  },
+  {
+    "id": 24416,
+    "location_code": "CR-POA",
+    "location_name": "Poas",
+    "location_weight": 0,
+    "location_landmark": "Poas",
+    "location_coordinates": "-84.2,10.02",
+    "location_label": "Poas",
+    "parent": 61
+  },
+  {
+    "id": 24417,
+    "location_code": "CR-POC",
+    "location_name": "Pocora",
+    "location_weight": 0,
+    "location_landmark": "Pocora",
+    "location_coordinates": "-83.60144,10.17092",
+    "location_label": "Pocora, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24418,
+    "location_code": "CR-PCS",
+    "location_name": "Pocosol",
+    "location_weight": 0,
+    "location_landmark": "Pocosol",
+    "location_coordinates": "-84.45683,10.94216",
+    "location_label": "Pocosol, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24419,
+    "location_code": "CR-OGE",
+    "location_name": "Potrero Grande",
+    "location_weight": 0,
+    "location_landmark": "Potrero Grande",
+    "location_coordinates": "-83.16675,9.01855",
+    "location_label": "Potrero Grande, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24420,
+    "location_code": "CR-PTC",
+    "location_name": "Puerto Caldera",
+    "location_weight": 0,
+    "location_landmark": "Puerto Caldera",
+    "location_coordinates": "-84.43,9.57",
+    "location_label": "Puerto Caldera",
+    "parent": 61
+  },
+  {
+    "id": 24421,
+    "location_code": "CR-PUC",
+    "location_name": "Puerto Carrillo",
+    "location_weight": 0,
+    "location_landmark": "Puerto Carrillo",
+    "location_coordinates": "-85.44696,9.96847",
+    "location_label": "Puerto Carrillo, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24422,
+    "location_code": "CR-COY",
+    "location_name": "Puerto Coyote",
+    "location_weight": 0,
+    "location_landmark": "Puerto Coyote",
+    "location_coordinates": "-85.16,9.47",
+    "location_label": "Puerto Coyote",
+    "parent": 61
+  },
+  {
+    "id": 24423,
+    "location_code": "CR-PJM",
+    "location_name": "Puerto Jimenez",
+    "location_weight": 0,
+    "location_landmark": "Puerto Jimenez",
+    "location_coordinates": "-83.44913,8.55342",
+    "location_label": "Puerto Jimenez, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24424,
+    "location_code": "CR-LIO",
+    "location_name": "Puerto Limon",
+    "location_weight": 0,
+    "location_landmark": "Puerto Limon",
+    "location_coordinates": "-83.02,10",
+    "location_label": "Puerto Limon",
+    "parent": 61
+  },
+  {
+    "id": 24425,
+    "location_code": "CR-PMN",
+    "location_name": "Puerto Moin",
+    "location_weight": 0,
+    "location_landmark": "Puerto Moin",
+    "location_coordinates": ",",
+    "location_label": "Puerto Moin",
+    "parent": 61
+  },
+  {
+    "id": 24426,
+    "location_code": "CR-VDT",
+    "location_name": "Puerto Viejo",
+    "location_weight": 0,
+    "location_landmark": "Puerto Viejo",
+    "location_coordinates": "-84.01156,10.45094",
+    "location_label": "Puerto Viejo, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24427,
+    "location_code": "CR-PVS",
+    "location_name": "Puerto Viejo de Sarapiqui",
+    "location_weight": 0,
+    "location_landmark": "Puerto Viejo de Sarapiqui",
+    "location_coordinates": "-84.01156,10.45094",
+    "location_label": "Puerto Viejo, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24428,
+    "location_code": "CR-PBP",
+    "location_name": "Punta Islita",
+    "location_weight": 0,
+    "location_landmark": "Punta Islita",
+    "location_coordinates": "-85.22,9.51",
+    "location_label": "Punta Islita",
+    "parent": 61
+  },
+  {
+    "id": 24429,
+    "location_code": "CR-PUM",
+    "location_name": "Punta Morales",
+    "location_weight": 0,
+    "location_landmark": "Punta Morales",
+    "location_coordinates": "-84.58,10.04",
+    "location_label": "Punta Morales",
+    "parent": 61
+  },
+  {
+    "id": 24430,
+    "location_code": "CR-JAP",
+    "location_name": "Punta Renes",
+    "location_weight": 0,
+    "location_landmark": "Punta Renes",
+    "location_coordinates": "-85.51,10.57",
+    "location_label": "Punta Renes",
+    "parent": 61
+  },
+  {
+    "id": 24431,
+    "location_code": "CR-PAS",
+    "location_name": "Puntarenas",
+    "location_weight": 0,
+    "location_landmark": "Puntarenas",
+    "location_coordinates": "-84.84211,9.97653",
+    "location_label": "Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24432,
+    "location_code": "CR-QGG",
+    "location_name": "Quebrada Grande",
+    "location_weight": 0,
+    "location_landmark": "Quebrada Grande",
+    "location_coordinates": "-84.94264,10.43116",
+    "location_label": "Quebrada Grande, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24433,
+    "location_code": "CR-GHA",
+    "location_name": "Quebrada Honda",
+    "location_weight": 0,
+    "location_landmark": "Quebrada Honda",
+    "location_coordinates": "-85.29426,10.18796",
+    "location_label": "Quebrada Honda, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24434,
+    "location_code": "CR-QPS",
+    "location_name": "Quepos",
+    "location_weight": 0,
+    "location_landmark": "Quepos",
+    "location_coordinates": "-84.16171,9.42539",
+    "location_label": "Quepos, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24435,
+    "location_code": "CR-XQP",
+    "location_name": "Quepos (Puerto Quepos)",
+    "location_weight": 0,
+    "location_landmark": "Quepos (Puerto Quepos)",
+    "location_coordinates": ",",
+    "location_label": "Quepos (Puerto Quepos)",
+    "parent": 61
+  },
+  {
+    "id": 24436,
+    "location_code": "CR-CQA",
+    "location_name": "Quesada",
+    "location_weight": 0,
+    "location_landmark": "Quesada",
+    "location_coordinates": "-84.42968,10.32412",
+    "location_label": "Quesada, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24437,
+    "location_code": "CR-RCD",
+    "location_name": "Rio Cuarto",
+    "location_weight": 0,
+    "location_landmark": "Rio Cuarto",
+    "location_coordinates": "-84.21726,10.34032",
+    "location_label": "Rio Cuarto, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24438,
+    "location_code": "CR-RIO",
+    "location_name": "Rio Frio",
+    "location_weight": 0,
+    "location_landmark": "Rio Frio",
+    "location_coordinates": "-85.11,9.47",
+    "location_label": "Rio Frio",
+    "parent": 61
+  },
+  {
+    "id": 24439,
+    "location_code": "CR-RJI",
+    "location_name": "Rio Jimenez",
+    "location_weight": 0,
+    "location_landmark": "Rio Jimenez",
+    "location_coordinates": "-83.6008,10.24977",
+    "location_label": "Rio Jimenez, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24440,
+    "location_code": "CR-RIS",
+    "location_name": "Rio Segundo",
+    "location_weight": 0,
+    "location_landmark": "Rio Segundo",
+    "location_coordinates": "-84.18951,10.00224",
+    "location_label": "Rio Segundo, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24441,
+    "location_code": "CR-ROX",
+    "location_name": "Roxana",
+    "location_weight": 0,
+    "location_landmark": "Roxana",
+    "location_coordinates": "-83.75223,10.26982",
+    "location_label": "Roxana, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24442,
+    "location_code": "CR-SAO",
+    "location_name": "Sabalito",
+    "location_weight": 0,
+    "location_landmark": "Sabalito",
+    "location_coordinates": "-82.90552,8.81871",
+    "location_label": "Sabalito, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24443,
+    "location_code": "CR-SLN",
+    "location_name": "Salinas",
+    "location_weight": 0,
+    "location_landmark": "Salinas",
+    "location_coordinates": "-84.41,9.56",
+    "location_label": "Salinas",
+    "parent": 61
+  },
+  {
+    "id": 24444,
+    "location_code": "CR-SAM",
+    "location_name": "Samara",
+    "location_weight": 0,
+    "location_landmark": "Samara",
+    "location_coordinates": "-85.52312,9.88305",
+    "location_label": "Samara, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24445,
+    "location_code": "CR-SAL",
+    "location_name": "San Alberto Nuevo",
+    "location_weight": 0,
+    "location_landmark": "San Alberto Nuevo",
+    "location_coordinates": "-83.28,10.09",
+    "location_label": "San Alberto Nuevo",
+    "parent": 61
+  },
+  {
+    "id": 24446,
+    "location_code": "CR-SAB",
+    "location_name": "San Antonio",
+    "location_weight": 0,
+    "location_landmark": "San Antonio",
+    "location_coordinates": "-84.11,9.59",
+    "location_label": "San Antonio",
+    "parent": 61
+  },
+  {
+    "id": 24447,
+    "location_code": "CR-SCS",
+    "location_name": "San Carlos",
+    "location_weight": 0,
+    "location_landmark": "San Carlos",
+    "location_coordinates": "-84.09167,9.62792",
+    "location_label": "San Carlos, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24448,
+    "location_code": "CR-SFC",
+    "location_name": "San Francisco de Coyote",
+    "location_weight": 0,
+    "location_landmark": "San Francisco de Coyote",
+    "location_coordinates": "-85.45,10.16",
+    "location_label": "San Francisco de Coyote",
+    "parent": 61
+  },
+  {
+    "id": 24449,
+    "location_code": "CR-SFO",
+    "location_name": "San Francisco de Dos Rios",
+    "location_weight": 0,
+    "location_landmark": "San Francisco de Dos Rios",
+    "location_coordinates": "-84.03,9.55",
+    "location_label": "San Francisco de Dos Rios",
+    "parent": 61
+  },
+  {
+    "id": 24450,
+    "location_code": "CR-SAN",
+    "location_name": "San Ignacio de Acosta",
+    "location_weight": 0,
+    "location_landmark": "San Ignacio de Acosta",
+    "location_coordinates": "-84.1581,9.79517",
+    "location_label": "San Ignacio, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24451,
+    "location_code": "CR-SID",
+    "location_name": "San Isidro",
+    "location_weight": 0,
+    "location_landmark": "San Isidro",
+    "location_coordinates": "-84.03,10.01",
+    "location_label": "San Isidro",
+    "parent": 61
+  },
+  {
+    "id": 24452,
+    "location_code": "CR-SIS",
+    "location_name": "San Isidro",
+    "location_weight": 0,
+    "location_landmark": "San Isidro",
+    "location_coordinates": "-83.42,9.22",
+    "location_label": "San Isidro",
+    "parent": 61
+  },
+  {
+    "id": 24453,
+    "location_code": "CR-SIO",
+    "location_name": "San Isidro de Penas Blancas",
+    "location_weight": 0,
+    "location_landmark": "San Isidro de Penas Blancas",
+    "location_coordinates": "-84.36,10.21",
+    "location_label": "San Isidro de Penas Blancas",
+    "parent": 61
+  },
+  {
+    "id": 24454,
+    "location_code": "CR-SJN",
+    "location_name": "San Joaquin",
+    "location_weight": 0,
+    "location_landmark": "San Joaquin",
+    "location_coordinates": "-84.14919,10.00142",
+    "location_label": "San Joaquin, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24455,
+    "location_code": "CR-SJO",
+    "location_name": "San Jose",
+    "location_weight": 10,
+    "location_landmark": "San Jose",
+    "location_coordinates": "-84.05,9.56",
+    "location_label": "San Jose",
+    "parent": 61
+  },
+  {
+    "id": 24456,
+    "location_code": "CR-SLU",
+    "location_name": "San Luis",
+    "location_weight": 0,
+    "location_landmark": "San Luis",
+    "location_coordinates": "-84.45367,9.84889",
+    "location_label": "San Luis, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24457,
+    "location_code": "CR-SNL",
+    "location_name": "San Luis",
+    "location_weight": 0,
+    "location_landmark": "San Luis",
+    "location_coordinates": "-84.45367,9.84889",
+    "location_label": "San Luis, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24458,
+    "location_code": "CR-MTZ",
+    "location_name": "San Marcos de Tarrazu",
+    "location_weight": 0,
+    "location_landmark": "San Marcos de Tarrazu",
+    "location_coordinates": "-84.01681,9.6593",
+    "location_label": "San Marcos, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24459,
+    "location_code": "CR-SPT",
+    "location_name": "San Pablo de Turrubares",
+    "location_weight": 0,
+    "location_landmark": "San Pablo de Turrubares",
+    "location_coordinates": "-84.44017,9.90714",
+    "location_label": "San Pablo, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24460,
+    "location_code": "CR-SSP",
+    "location_name": "San Pedro de Poas",
+    "location_weight": 0,
+    "location_landmark": "San Pedro de Poas",
+    "location_coordinates": "-84.24423,10.07292",
+    "location_label": "San Pedro, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24461,
+    "location_code": "CR-SRF",
+    "location_name": "San Rafael",
+    "location_weight": 0,
+    "location_landmark": "San Rafael",
+    "location_coordinates": "-83.31,9.19",
+    "location_label": "San Rafael",
+    "parent": 61
+  },
+  {
+    "id": 24462,
+    "location_code": "CR-SRE",
+    "location_name": "San Rafael de Escazu",
+    "location_weight": 0,
+    "location_landmark": "San Rafael de Escazu",
+    "location_coordinates": "-84.13304,9.92973",
+    "location_label": "San Rafael, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24463,
+    "location_code": "CR-SRG",
+    "location_name": "San Rafael Guatuso",
+    "location_weight": 0,
+    "location_landmark": "San Rafael Guatuso",
+    "location_coordinates": "-84.82012,10.67252",
+    "location_label": "San Rafael, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24464,
+    "location_code": "CR-SOR",
+    "location_name": "San Ramon",
+    "location_weight": 0,
+    "location_landmark": "San Ramon",
+    "location_coordinates": ",",
+    "location_label": "San Ramon",
+    "parent": 61
+  },
+  {
+    "id": 24465,
+    "location_code": "CR-TOO",
+    "location_name": "San Vito",
+    "location_weight": 0,
+    "location_landmark": "San Vito",
+    "location_coordinates": "-82.96845,8.81647",
+    "location_label": "San Vito, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24466,
+    "location_code": "CR-SVL",
+    "location_name": "Sandoval",
+    "location_weight": 0,
+    "location_landmark": "Sandoval",
+    "location_coordinates": "-83.05,9.58",
+    "location_label": "Sandoval",
+    "parent": 61
+  },
+  {
+    "id": 24467,
+    "location_code": "CR-ANA",
+    "location_name": "Santa Ana",
+    "location_weight": 0,
+    "location_landmark": "Santa Ana",
+    "location_coordinates": "-84.18176,9.93432",
+    "location_label": "Santa Ana, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24468,
+    "location_code": "CR-HSB",
+    "location_name": "Santa Barbaraa",
+    "location_weight": 0,
+    "location_landmark": "Santa Barbaraa",
+    "location_coordinates": "-84.16022,10.03704",
+    "location_label": "Santa Barbara, Heredia, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24469,
+    "location_code": "CR-SCC",
+    "location_name": "Santa Cecilia",
+    "location_weight": 0,
+    "location_landmark": "Santa Cecilia",
+    "location_coordinates": "-85.41473,11.06166",
+    "location_label": "Santa Cecilia, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24470,
+    "location_code": "CR-SCZ",
+    "location_name": "Santa Cruz",
+    "location_weight": 0,
+    "location_landmark": "Santa Cruz",
+    "location_coordinates": "-85.35,10.15",
+    "location_label": "Santa Cruz",
+    "parent": 61
+  },
+  {
+    "id": 24471,
+    "location_code": "CR-SSC",
+    "location_name": "Santa Cruz",
+    "location_weight": 0,
+    "location_landmark": "Santa Cruz",
+    "location_coordinates": "-84.01,9.43",
+    "location_label": "Santa Cruz",
+    "parent": 61
+  },
+  {
+    "id": 24472,
+    "location_code": "CR-ENA",
+    "location_name": "Santa Elena",
+    "location_weight": 0,
+    "location_landmark": "Santa Elena",
+    "location_coordinates": "-85.71403,10.86218",
+    "location_label": "Santa Elena, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24473,
+    "location_code": "CR-SMD",
+    "location_name": "Santa Maria de Dota",
+    "location_weight": 0,
+    "location_landmark": "Santa Maria de Dota",
+    "location_coordinates": "-83.96555,9.65268",
+    "location_label": "Santa Maria, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24474,
+    "location_code": "CR-SMP",
+    "location_name": "Santa Maria\/Pocosol",
+    "location_weight": 0,
+    "location_landmark": "Santa Maria\/Pocosol",
+    "location_coordinates": "-84.31,10.37",
+    "location_label": "Santa Maria\/Pocosol",
+    "parent": 61
+  },
+  {
+    "id": 24475,
+    "location_code": "CR-RIT",
+    "location_name": "Santa Rita",
+    "location_weight": 0,
+    "location_landmark": "Santa Rita",
+    "location_coordinates": "-85.25562,10.02373",
+    "location_label": "Santa Rita, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24476,
+    "location_code": "CR-SRA",
+    "location_name": "Santa Rita",
+    "location_weight": 0,
+    "location_landmark": "Santa Rita",
+    "location_coordinates": "-85.25562,10.02373",
+    "location_label": "Santa Rita, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24477,
+    "location_code": "CR-STR",
+    "location_name": "Santa Rita",
+    "location_weight": 0,
+    "location_landmark": "Santa Rita",
+    "location_coordinates": "-85.25562,10.02373",
+    "location_label": "Santa Rita",
+    "parent": 61
+  },
+  {
+    "id": 24478,
+    "location_code": "CR-ROS",
+    "location_name": "Santa Rosa",
+    "location_weight": 0,
+    "location_landmark": "Santa Rosa",
+    "location_coordinates": "-84.05,9.57",
+    "location_label": "Santa Rosa",
+    "parent": 61
+  },
+  {
+    "id": 24479,
+    "location_code": "CR-ASL",
+    "location_name": "Santa Rosa de Pocosol",
+    "location_weight": 0,
+    "location_landmark": "Santa Rosa de Pocosol",
+    "location_coordinates": "-84.5251,10.62919",
+    "location_label": "Santa Rosa de Pocosol",
+    "parent": 61
+  },
+  {
+    "id": 24480,
+    "location_code": "CR-SRP",
+    "location_name": "Santa Rosa\/Pocosol",
+    "location_weight": 0,
+    "location_landmark": "Santa Rosa\/Pocosol",
+    "location_coordinates": "-84.5251,10.62919",
+    "location_label": "Santa Rosa, Pocosol, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24481,
+    "location_code": "CR-SPU",
+    "location_name": "Santiago de Puriscal",
+    "location_weight": 0,
+    "location_landmark": "Santiago de Puriscal",
+    "location_coordinates": "-84.31424,9.84353",
+    "location_label": "Santiago, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24482,
+    "location_code": "CR-SDG",
+    "location_name": "Santo Domingo",
+    "location_weight": 0,
+    "location_landmark": "Santo Domingo",
+    "location_coordinates": "-84.05,9.59",
+    "location_label": "Santo Domingo",
+    "parent": 61
+  },
+  {
+    "id": 24483,
+    "location_code": "CR-SPI",
+    "location_name": "Sarapiqui",
+    "location_weight": 10,
+    "location_landmark": "Sarapiqui",
+    "location_coordinates": "-84.18973,10.26792",
+    "location_label": "Sarapiqui, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24484,
+    "location_code": "CR-SRI",
+    "location_name": "Sarchi",
+    "location_weight": 10,
+    "location_landmark": "Sarchi",
+    "location_coordinates": "-84.3476321,10.0898383",
+    "location_label": "Sarchi",
+    "parent": 61
+  },
+  {
+    "id": 24485,
+    "location_code": "CR-SAR",
+    "location_name": "Sardinal",
+    "location_weight": 0,
+    "location_landmark": "Sardinal",
+    "location_coordinates": "-85.64491,10.51638",
+    "location_label": "Sardinal, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24486,
+    "location_code": "CR-SQR",
+    "location_name": "Siquirres",
+    "location_weight": 0,
+    "location_landmark": "Siquirres",
+    "location_coordinates": "-83.50639,10.09756",
+    "location_label": "Siquirres, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24487,
+    "location_code": "CR-SIX",
+    "location_name": "Sixaola\/Talamanca",
+    "location_weight": 0,
+    "location_landmark": "Sixaola\/Talamanca",
+    "location_coordinates": "-82.62553,9.5103",
+    "location_label": "Sixaola, Limon, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24488,
+    "location_code": "CR-TCA",
+    "location_name": "Tabarca",
+    "location_weight": 0,
+    "location_landmark": "Tabarca",
+    "location_coordinates": "-84.2326,9.84653",
+    "location_label": "Tabarcia, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24489,
+    "location_code": "CR-TNC",
+    "location_name": "Talamanca",
+    "location_weight": 0,
+    "location_landmark": "Talamanca",
+    "location_coordinates": "-82.47,9.36",
+    "location_label": "Talamanca",
+    "parent": 61
+  },
+  {
+    "id": 24490,
+    "location_code": "CR-TAM",
+    "location_name": "Tamarindo",
+    "location_weight": 10,
+    "location_landmark": "Tamarindo",
+    "location_coordinates": "-85.83412,10.309",
+    "location_label": "Tamarindo, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24491,
+    "location_code": "CR-TBR",
+    "location_name": "Tambor",
+    "location_weight": 0,
+    "location_landmark": "Tambor",
+    "location_coordinates": "-84.23864,10.03778",
+    "location_label": "Tambor, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24492,
+    "location_code": "CR-TAP",
+    "location_name": "Tapanti",
+    "location_weight": 0,
+    "location_landmark": "Tapanti",
+    "location_coordinates": "-83.46,9.46",
+    "location_label": "Tapanti",
+    "parent": 61
+  },
+  {
+    "id": 24493,
+    "location_code": "CR-TAR",
+    "location_name": "Tarbaca",
+    "location_weight": 0,
+    "location_landmark": "Tarbaca",
+    "location_coordinates": "-84.10763,9.81787",
+    "location_label": "Tarbaca, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24494,
+    "location_code": "CR-TCS",
+    "location_name": "Tarcoles",
+    "location_weight": 0,
+    "location_landmark": "Tarcoles",
+    "location_coordinates": "-84.62466,9.75532",
+    "location_label": "Tarcoles, Puntarenas, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24495,
+    "location_code": "CR-TJR",
+    "location_name": "Tejar",
+    "location_weight": 0,
+    "location_landmark": "Tejar",
+    "location_coordinates": "-83.93746,9.84524",
+    "location_label": "Tejar, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24496,
+    "location_code": "CR-TBC",
+    "location_name": "Tierra Blanca",
+    "location_weight": 0,
+    "location_landmark": "Tierra Blanca",
+    "location_coordinates": "-83.89234,9.91512",
+    "location_label": "Tierra Blanca, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24497,
+    "location_code": "CR-LTA",
+    "location_name": "Tigra",
+    "location_weight": 0,
+    "location_landmark": "Tigra",
+    "location_coordinates": "-84.58133,10.34022",
+    "location_label": "Tigra, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24498,
+    "location_code": "CR-TIL",
+    "location_name": "Tilaran",
+    "location_weight": 0,
+    "location_landmark": "Tilaran",
+    "location_coordinates": "-84.96458,10.46796",
+    "location_label": "Tilaran, Guanacaste, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24499,
+    "location_code": "CR-TTQ",
+    "location_name": "Tortuguero",
+    "location_weight": 10,
+    "location_landmark": "Tortuguero",
+    "location_coordinates": "-83.35,10.34",
+    "location_label": "Tortuguero",
+    "parent": 61
+  },
+  {
+    "id": 24500,
+    "location_code": "CR-TRE",
+    "location_name": "Tres Rios",
+    "location_weight": 0,
+    "location_landmark": "Tres Rios",
+    "location_coordinates": "-83.98629,9.90832",
+    "location_label": "Tres Rios, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24501,
+    "location_code": "CR-TUC",
+    "location_name": "Tucurrique",
+    "location_weight": 0,
+    "location_landmark": "Tucurrique",
+    "location_coordinates": "-83.71538,9.85094",
+    "location_label": "Tucurrique, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24502,
+    "location_code": "CR-TUR",
+    "location_name": "Turrialba",
+    "location_weight": 0,
+    "location_landmark": "Turrialba",
+    "location_coordinates": "-83.68627,9.90526",
+    "location_label": "Turrialba, Cartago, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24503,
+    "location_code": "CR-TUA",
+    "location_name": "Turrubares",
+    "location_weight": 0,
+    "location_landmark": "Turrubares",
+    "location_coordinates": "-84.31,9.37",
+    "location_label": "Turrucares, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24504,
+    "location_code": "CR-TRR",
+    "location_name": "Turrucares",
+    "location_weight": 0,
+    "location_landmark": "Turrucares",
+    "location_coordinates": "-84.31919,9.96111",
+    "location_label": "Turrucares, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24505,
+    "location_code": "CR-UJA",
+    "location_name": "Ujarras",
+    "location_weight": 0,
+    "location_landmark": "Ujarras",
+    "location_coordinates": "-84.12,10.17",
+    "location_label": "Ujarras",
+    "parent": 61
+  },
+  {
+    "id": 24506,
+    "location_code": "CR-URS",
+    "location_name": "Ujarras",
+    "location_weight": 0,
+    "location_landmark": "Ujarras",
+    "location_coordinates": "-83.5,9.5",
+    "location_label": "Ujarras",
+    "parent": 61
+  },
+  {
+    "id": 24507,
+    "location_code": "CR-UPA",
+    "location_name": "Upala",
+    "location_weight": 0,
+    "location_landmark": "Upala",
+    "location_coordinates": "-85.00889,10.8989",
+    "location_label": "Upala, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24508,
+    "location_code": "CR-UTA",
+    "location_name": "Uvita",
+    "location_weight": 0,
+    "location_landmark": "Uvita",
+    "location_coordinates": "-83.45,9.09",
+    "location_label": "Uvita",
+    "parent": 61
+  },
+  {
+    "id": 24509,
+    "location_code": "CR-FDF",
+    "location_name": "Venecia",
+    "location_weight": 0,
+    "location_landmark": "Venecia",
+    "location_coordinates": "-84.27222,10.35317",
+    "location_label": "Venecia, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24510,
+    "location_code": "CR-VA2",
+    "location_name": "Venecia",
+    "location_weight": 0,
+    "location_landmark": "Venecia",
+    "location_coordinates": "-84.27222,10.35317",
+    "location_label": "Venecia, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24511,
+    "location_code": "CR-PVZ",
+    "location_name": "Veracruz",
+    "location_weight": 0,
+    "location_landmark": "Veracruz",
+    "location_coordinates": "-84.49,10.14",
+    "location_label": "Veracruz",
+    "parent": 61
+  },
+  {
+    "id": 24512,
+    "location_code": "CR-VER",
+    "location_name": "Veracruz",
+    "location_weight": 0,
+    "location_landmark": "Veracruz",
+    "location_coordinates": "-84.15,10.31",
+    "location_label": "Veracruz",
+    "parent": 61
+  },
+  {
+    "id": 24513,
+    "location_code": "CR-VF2",
+    "location_name": "Villa Franca",
+    "location_weight": 0,
+    "location_landmark": "Villa Franca",
+    "location_coordinates": "-83.36,10.18",
+    "location_label": "Villa Franca",
+    "parent": 61
+  },
+  {
+    "id": 24514,
+    "location_code": "CR-VDJ",
+    "location_name": "Vuelta de Jorco",
+    "location_weight": 0,
+    "location_landmark": "Vuelta de Jorco",
+    "location_coordinates": "-84.13019,9.79504",
+    "location_label": "Vuelta de Jorco, San Jose, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24515,
+    "location_code": "CR-ZAP",
+    "location_name": "Zapote",
+    "location_weight": 0,
+    "location_landmark": "Zapote",
+    "location_coordinates": "-84.4695,10.25726",
+    "location_label": "Zapote, Alajuela, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 24516,
+    "location_code": "CR-ZAR",
+    "location_name": "Zarcero \/ Naranjo",
+    "location_weight": 0,
+    "location_landmark": "Zarcero \/ Naranjo",
+    "location_coordinates": "-84.24,10.11",
+    "location_label": "Zarcero \/ Naranjo",
+    "parent": 61
+  },
+  {
+    "id": 110428,
+    "location_code": "CR-GTE",
+    "location_name": "Guanacaste",
+    "location_weight": 10,
+    "location_landmark": "Guanacaste",
+    "location_coordinates": "-85.4,10.433333",
+    "location_label": "Costa Rica, Guanacaste",
+    "parent": 61
+  },
+  {
+    "id": 110619,
+    "location_code": "CR-MVR",
+    "location_name": "Monteverde",
+    "location_weight": 10,
+    "location_landmark": "Monteverde",
+    "location_coordinates": "-83.448143,10.09969",
+    "location_label": "Monteverde, Lim\u00f3n, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 110620,
+    "location_code": "CR-AVL",
+    "location_name": "Arenal Volcano",
+    "location_weight": 10,
+    "location_landmark": "Arenal Volcano, Volcano Arenal",
+    "location_coordinates": "-84.7031794,10.4626262",
+    "location_label": "Arenal Volcano, San Carlos, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 110621,
+    "location_code": "CR-MAN",
+    "location_name": "Manuel Antonio National Park",
+    "location_weight": 10,
+    "location_landmark": "Manuel Antonio National Park",
+    "location_coordinates": "-84.1369879,9.392308",
+    "location_label": "Manuel Antonio National Park, Costa Rica",
+    "parent": 61
+  },
+  {
+    "id": 110632,
+    "location_code": "CR-BBL",
+    "location_name": "Bahia Ballena",
+    "location_weight": 0,
+    "location_landmark": "Bahia Ballena,Costa Ballena",
+    "location_coordinates": "-83.740684,9.179279",
+    "location_label": "Bahia Ballena",
+    "parent": 61
+  },
+  {
+    "id": 110634,
+    "location_code": "CR-DRK",
+    "location_name": "Drake Bay",
+    "location_weight": 0,
+    "location_landmark": "Drake Bay",
+    "location_coordinates": "-83.666667,8.7",
+    "location_label": "Drake Bay",
+    "parent": 61
+  },
+  {
+    "id": 110635,
+    "location_code": "CR-MPS",
+    "location_name": "Santa Teresa",
+    "location_weight": 0,
+    "location_landmark": "Mal Pais,Santa Teresa",
+    "location_coordinates": "-85.166667,9.65",
+    "location_label": "Santa Teresa",
+    "parent": 61
+  },
+  {
+    "id": 110636,
+    "location_code": "CR-BTP",
+    "location_name": "Boca Tapada",
+    "location_weight": 0,
+    "location_landmark": "Boca Tapada,Northern Costa Rica",
+    "location_coordinates": "-84.2615145,10.6658978",
+    "location_label": "Boca Tapada",
+    "parent": 61
+  },
+  {
+    "id": 110638,
+    "location_code": "CR-PVT",
+    "location_name": "Puerto Viejo de Talamanca",
+    "location_weight": 0,
+    "location_landmark": "Puerto Viejo de Talamanca",
+    "location_coordinates": "-82.7615973,9.655912",
+    "location_label": "Puerto Viejo de Talamanca",
+    "parent": 61
+  },
+  {
+    "id": 110639,
+    "location_code": "CR-VRV",
+    "location_name": "Volcan Rincon de la Vieja",
+    "location_weight": 0,
+    "location_landmark": "Volcan Rincon de la Vieja",
+    "location_coordinates": "-85.323889,10.83",
+    "location_label": "Volcan Rincon de la Vieja",
+    "parent": 61
+  },
+  {
+    "id": 110640,
+    "location_code": "CR-SGD",
+    "location_name": "San Gerardo de Dota",
+    "location_weight": 0,
+    "location_landmark": "San Gerardo de Dota",
+    "location_coordinates": "-83.8236238,9.5669804",
+    "location_label": "San Gerardo de Dota",
+    "parent": 61
+  },
+  {
+    "id": 110641,
+    "location_code": "CR-VTN",
+    "location_name": "Volcan Tenorio",
+    "location_weight": 0,
+    "location_landmark": "Volcan Tenorio,Tenorio",
+    "location_coordinates": "-85.015,10.672778",
+    "location_label": "Volcan Tenorio",
+    "parent": 61
+  },
+  {
+    "id": 35,
+    "location_code": "BO",
+    "location_coordinates": "",
+    "location_label": "Bolivia",
+    "location_landmark": "Bolivia",
+    "location_name": "Bolivia",
+    "location_weight": "Bolivia",
+    "parent": 0
+  },
+  {
+    "id": 14185,
+    "parent": 35,
+    "location_code": "BO-LPB",
+    "location_name": "La Paz",
+    "location_label": "La Paz, Bolivia",
+    "location_weight": 0,
+    "location_landmark": "La Paz",
+    "location_latitude": -16.49908,
+    "location_longitude": -68.13378
+  },
+  {
+    "id": 14210,
+    "parent": 35,
+    "location_code": "BO-SRZ",
+    "location_name": "Santa Cruz",
+    "location_label": "Santa Cruz de la Sierra, Santa Cruz, Bolivia",
+    "location_weight": 0,
+    "location_landmark": "Santa Cruz",
+    "location_latitude": -17.78368,
+    "location_longitude": -63.18041
+  },
+  {
+    "id": 14216,
+    "parent": 35,
+    "location_code": "BO-SRE",
+    "location_name": "Sucre",
+    "location_label": "Sucre, Chuquisaca, Bolivia",
+    "location_weight": 0,
+    "location_landmark": "Sucre",
+    "location_latitude": -19.03896,
+    "location_longitude": -65.256
+  },
+  {
+    "id": 14221,
+    "parent": 35,
+    "location_code": "BO-UYU",
+    "location_name": "Uyuni",
+    "location_label": "Uyuni (Thola Pampa), Potosi, Bolivia",
+    "location_weight": 0,
+    "location_landmark": "Uyuni",
+    "location_latitude": -20.08207,
+    "location_longitude": -66.89107
+  }
+]

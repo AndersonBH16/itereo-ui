@@ -1,0 +1,77 @@
+[
+  {
+    "id": 38,
+    "icon": null,
+    "name": "Single",
+    "acronym": "SGL",
+    "bed_num": 1,
+    "max_pax": 1,
+    "max_child": 0,
+    "description": {
+      "id": 109,
+      "value": "Single room for one person",
+      "translate": null
+    },
+    "id_room_type": 1
+  },
+  {
+    "id": 1288,
+    "icon": null,
+    "name": "Double",
+    "acronym": "DBL",
+    "bed_num": 1,
+    "max_pax": 2,
+    "max_child": 0,
+    "description": {
+      "id": 7470,
+      "value": "Double room for two person",
+      "translate": null
+    },
+    "id_room_type": 2
+  },
+  {
+    "id": 1289,
+    "icon": null,
+    "name": "Twin",
+    "acronym": "TWI",
+    "bed_num": 2,
+    "max_pax": 2,
+    "max_child": 0,
+    "description": {
+      "id": 7477,
+      "value": "Room with two twin beds",
+      "translate": null
+    },
+    "id_room_type": 3
+  },
+  {
+    "id": 1290,
+    "icon": null,
+    "name": "Triple",
+    "acronym": "TRP",
+    "bed_num": 2,
+    "max_pax": 3,
+    "max_child": 0,
+    "description": {
+      "id": 7484,
+      "value": "room with double bed and one single",
+      "translate": null
+    },
+    "id_room_type": 4
+  },
+  {
+    "id": 1291,
+    "icon": null,
+    "name": "Quadruple",
+    "acronym": "QUA",
+    "bed_num": 2,
+    "max_pax": 4,
+    "max_child": 0,
+    "description": {
+      "id": 7491,
+      "value": "room with two double beds",
+      "translate": null
+    },
+    "id_room_type": 5
+  }
+]
